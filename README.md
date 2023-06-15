@@ -2,4 +2,4 @@
 
 ### Screenshot
 
-<img src="./frutífera/doc/frutdesktop.jpeg">
+<img src=".frutifera-js/doc/frutdesktop.jpeg">
